@@ -1,5 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <JSCodeStyleSettings version="0">
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="CONCAT_SPACES" value="false" />
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
