@@ -1,0 +1,8 @@
+<templateSet group="PHP Testing">
+  <template name="test" value="public function test_$NAME$() {&#10;    $END$&#10;}" description="public function test_" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+</templateSet>
