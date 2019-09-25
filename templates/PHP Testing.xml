@@ -5,4 +5,16 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="testad" value="public function test_auth_denied_for_$NAME$() &#10;{&#10;    $END$&#10;}" description="test authorization denied" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="testaa" value="public function test_auth_allowed_for_$NAME$() &#10;{&#10;    $END$&#10;}" description="test authorization allowed" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
