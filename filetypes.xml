@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="sqlite" type="Native" />
+      <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="HttpAuthorizationException" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
