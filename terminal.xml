@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="/Applications/iTerm.app/Contents/MacOS/iTerm2" />
+  </component>
+</application>
