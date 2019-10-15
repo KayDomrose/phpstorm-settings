@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0f8504de-2a2b-43d5-a1a1-0397bb5c796e" name="ma-lernsoftware.de" url="https://ma-lernsoftware.de">
+        <fileTransfer host="ma-lernsoftware.de" port="22" rootFolder="/public_html/ma-lernsoftware/ma" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
