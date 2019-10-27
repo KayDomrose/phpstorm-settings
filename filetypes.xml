@@ -2,16 +2,17 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
-      <mapping ext="dockerfile" type="Dockerfile" />
       <mapping ext="nginx" type="Dockerfile" />
+      <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="sqlite" type="Native" />
       <mapping pattern=".php_cs.dist" type="PHP" />
-      <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern="HttpAuthorizationException" type="PLAIN_TEXT" />
+      <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping ext="proxy" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
+      <mapping ext="2019-10-27" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
