@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="4797d47f-eeea-4d72-9e24-02e3fc3d00e9" name="vinyes.de" url="https://vinyes.de">
+        <fileTransfer host="vinyes.de" port="22" rootFolder="/public_html/vinyes.de" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
