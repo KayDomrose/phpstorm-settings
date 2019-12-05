@@ -8,6 +8,7 @@
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="*.err.*" type="PLAIN_TEXT" />
       <mapping pattern="HttpAuthorizationException" type="PLAIN_TEXT" />
+      <mapping pattern="testfile" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping ext="proxy" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
