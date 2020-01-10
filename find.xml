@@ -16,5 +16,6 @@
     <mask>*.phtml</mask>
     <mask>*.ctp</mask>
     <mask>*.php</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
