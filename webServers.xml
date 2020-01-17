@@ -17,6 +17,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="34feb8ab-4131-4ce0-aa8d-4bd51c59c616" name="optinvest.de" url="https://www.optinvest.de/signatur?password=opti42">
+        <fileTransfer host="webhosting63.1blu.de" port="21" rootFolder="/master.optinvest.de/signatur">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
