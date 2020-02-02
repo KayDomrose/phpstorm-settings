@@ -25,6 +25,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="45d630a1-6484-4763-90c8-978356c0c54a" name="ferienwohnung-zingst.de" url="http://entwicklung.online-ferienobjekte.de">
+        <fileTransfer host="ftp.online-ferienobjekte.de" port="21" rootFolder="/entwicklung.ferienwohnung-zingst.de/ferienwohnung-zingst">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
