@@ -1,5 +1,12 @@
 <application>
   <component name="libraryTable">
+    <library name="jQuery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="parse" type="javaScript">
       <properties>
         <sourceFilesUrls>
