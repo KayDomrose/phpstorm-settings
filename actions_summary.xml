@@ -61,8 +61,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581198181147" />
-              <option name="times" value="1555" />
+              <option name="last" value="1581241866084" />
+              <option name="times" value="1558" />
             </ActionSummary>
           </value>
         </entry>
@@ -221,8 +221,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581198162900" />
-              <option name="times" value="325" />
+              <option name="last" value="1581241865307" />
+              <option name="times" value="331" />
             </ActionSummary>
           </value>
         </entry>
@@ -397,8 +397,8 @@
         <entry key="RenameElement">
           <value>
             <ActionSummary>
-              <option name="last" value="1581193993987" />
-              <option name="times" value="14" />
+              <option name="last" value="1581241863543" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +541,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581198069398" />
-              <option name="times" value="88" />
+              <option name="last" value="1581241855528" />
+              <option name="times" value="89" />
             </ActionSummary>
           </value>
         </entry>
