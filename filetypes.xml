@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="nginx" type="Dockerfile" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="sqlite" type="Native" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="*.err.*" type="PLAIN_TEXT" />
