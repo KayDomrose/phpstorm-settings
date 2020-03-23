@@ -8,6 +8,7 @@
       <mapping pattern="*.err.*" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="url" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="HttpAuthorizationException" type="PLAIN_TEXT" />
       <mapping pattern="testfile" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
