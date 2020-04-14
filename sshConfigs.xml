@@ -1,0 +1,8 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="ma-lernsoftware.de" id="6cbca28f-6b6a-4c46-b372-69d430df533d" port="22" customName="ma-lernsoftware.de" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="vinyes.de" id="477dc757-0e49-429d-a6b4-330ae875b39e" port="22" customName="vinyes.de" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</application>
