@@ -1,8 +1,8 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="ma-lernsoftware.de" id="6cbca28f-6b6a-4c46-b372-69d430df533d" port="22" customName="ma-lernsoftware.de" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="vinyes.de" id="477dc757-0e49-429d-a6b4-330ae875b39e" port="22" customName="vinyes.de" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="ma-lernsoftware.de" id="322948e8-8b89-42c0-aaca-cd4472b3e43d" port="22" customName="ma-lernsoftware.de" nameFormat="CUSTOM" username="pcqzvv" />
+      <sshConfig authType="PASSWORD" host="vinyes.de" id="1c8e7e54-b01f-4f3f-affa-e63e7e7e041e" port="22" customName="vinyes.de" nameFormat="CUSTOM" username="casavia" />
     </configs>
   </component>
 </application>
