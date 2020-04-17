@@ -2,35 +2,31 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="0f8504de-2a2b-43d5-a1a1-0397bb5c796e" name="ma-lernsoftware.de" url="https://ma-lernsoftware.de">
-        <fileTransfer host="ma-lernsoftware.de" port="22" rootFolder="/public_html/ma-lernsoftware/ma" accessType="SFTP">
+        <fileTransfer rootFolder="/public_html/ma-lernsoftware/ma" accessType="SFTP" sshConfigId="6cbca28f-6b6a-4c46-b372-69d430df533d" sshConfig="ma-lernsoftware.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="4797d47f-eeea-4d72-9e24-02e3fc3d00e9" name="vinyes.de" url="https://vinyes.de">
-        <fileTransfer host="vinyes.de" port="22" rootFolder="/public_html/vinyes.de" accessType="SFTP">
+        <fileTransfer rootFolder="/public_html/vinyes.de" accessType="SFTP" sshConfigId="477dc757-0e49-429d-a6b4-330ae875b39e" sshConfig="vinyes.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="34feb8ab-4131-4ce0-aa8d-4bd51c59c616" name="optinvest.de" url="https://www.optinvest.de/signatur?password=opti42">
-        <fileTransfer host="webhosting63.1blu.de" port="21" rootFolder="/master.optinvest.de/signatur">
+        <fileTransfer rootFolder="/master.optinvest.de/signatur" host="webhosting63.1blu.de" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="45d630a1-6484-4763-90c8-978356c0c54a" name="ferienwohnung-zingst.de" url="http://entwicklung.online-ferienobjekte.de">
-        <fileTransfer host="ftp.online-ferienobjekte.de" port="21" rootFolder="/entwicklung.ferienwohnung-zingst.de/ferienwohnung-zingst">
+        <fileTransfer rootFolder="/entwicklung.ferienwohnung-zingst.de/ferienwohnung-zingst" host="ftp.online-ferienobjekte.de" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>
