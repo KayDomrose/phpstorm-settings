@@ -2,14 +2,14 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="0f8504de-2a2b-43d5-a1a1-0397bb5c796e" name="ma-lernsoftware.de" url="https://ma-lernsoftware.de">
-        <fileTransfer rootFolder="/public_html/ma-lernsoftware/ma" accessType="SFTP" sshConfigId="6cbca28f-6b6a-4c46-b372-69d430df533d" sshConfig="ma-lernsoftware.de">
+        <fileTransfer rootFolder="/public_html/ma-lernsoftware/ma" accessType="SFTP" host="ma-lernsoftware.de" port="22" sshConfigId="322948e8-8b89-42c0-aaca-cd4472b3e43d" sshConfig="ma-lernsoftware.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="4797d47f-eeea-4d72-9e24-02e3fc3d00e9" name="vinyes.de" url="https://vinyes.de">
-        <fileTransfer rootFolder="/public_html/vinyes.de" accessType="SFTP" sshConfigId="477dc757-0e49-429d-a6b4-330ae875b39e" sshConfig="vinyes.de">
+        <fileTransfer rootFolder="/public_html/vinyes.de" accessType="SFTP" sshConfigId="1c8e7e54-b01f-4f3f-affa-e63e7e7e041e" sshConfig="vinyes.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
