@@ -9,7 +9,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="4797d47f-eeea-4d72-9e24-02e3fc3d00e9" name="vinyes.de" url="https://vinyes.de">
-        <fileTransfer rootFolder="/public_html/vinyes.de" accessType="SFTP" sshConfigId="1c8e7e54-b01f-4f3f-affa-e63e7e7e041e" sshConfig="vinyes.de">
+        <fileTransfer rootFolder="/public_html/vinyes.de" accessType="SFTP" host="vinyes.de" port="22" sshConfigId="1c8e7e54-b01f-4f3f-affa-e63e7e7e041e" sshConfig="vinyes.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -24,6 +24,13 @@
       </webServer>
       <webServer id="45d630a1-6484-4763-90c8-978356c0c54a" name="ferienwohnung-zingst.de" url="http://entwicklung.online-ferienobjekte.de">
         <fileTransfer rootFolder="/entwicklung.ferienwohnung-zingst.de/ferienwohnung-zingst" host="ftp.online-ferienobjekte.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="01088ac5-9c6b-400d-8f28-21060383c46a" name="sst-group" url="https://sst-group.org">
+        <fileTransfer rootFolder="/wp_site_1590154154" host="sst-group.org" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
