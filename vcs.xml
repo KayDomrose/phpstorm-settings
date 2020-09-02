@@ -38,6 +38,10 @@
           <option name="url" value="git@gitlab.com:geenen-it-systeme/kanzlei-voigt/voigt-pdf-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="kay.domrose@geenen-it-systeme.de" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git" />
