@@ -17,6 +17,9 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="RunAnything">
     <keyboard-shortcut first-keystroke="meta circumflex" />
   </action>
