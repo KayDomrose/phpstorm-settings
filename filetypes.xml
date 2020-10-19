@@ -19,6 +19,7 @@
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern="Hallo" type="PLAIN_TEXT" />
       <mapping pattern=".prettiercr" type="PLAIN_TEXT" />
+      <mapping pattern="creator_uid" type="PLAIN_TEXT" />
       <mapping pattern="testfile" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
       <mapping ext="proxy" type="PLAIN_TEXT" />
