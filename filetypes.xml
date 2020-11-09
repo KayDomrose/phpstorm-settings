@@ -23,6 +23,7 @@
       <mapping pattern="testfile" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
       <mapping ext="proxy" type="PLAIN_TEXT" />
+      <mapping ext="blockmap" type="PLAIN_TEXT" />
       <mapping ext="2019-10-27" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
