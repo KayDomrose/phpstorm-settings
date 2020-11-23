@@ -16,8 +16,8 @@
       <mapping pattern="url" type="PLAIN_TEXT" />
       <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
       <mapping pattern="kays-test" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Hallo" type="PLAIN_TEXT" />
       <mapping pattern=".prettiercr" type="PLAIN_TEXT" />
       <mapping pattern="creator_uid" type="PLAIN_TEXT" />
