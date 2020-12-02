@@ -36,6 +36,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="918805e7-46f8-4bb1-b249-0c93285904f8" name="Hardbuddy" url="https://dev.domrose.org">
+        <fileTransfer accessType="FTPS" host="dev.domrose.org" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
