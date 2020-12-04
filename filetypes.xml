@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="nginx" type="Dockerfile" />
@@ -21,22 +21,23 @@
       <mapping pattern=".prettiercr" type="PLAIN_TEXT" />
       <mapping pattern="creator_uid" type="PLAIN_TEXT" />
       <mapping pattern="testfile" type="PLAIN_TEXT" />
+      <mapping ext="2019-10-27" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
       <mapping ext="proxy" type="PLAIN_TEXT" />
-      <mapping ext="blockmap" type="PLAIN_TEXT" />
-      <mapping ext="2019-10-27" type="PLAIN_TEXT" />
-      <mapping pattern="post-checkout" type="Shell Script" />
-      <mapping pattern="dev" type="Shell Script" />
-      <mapping pattern="do" type="Shell Script" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="TypeScript JSX" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="do" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="dev" type="Shell Script" />
       <mapping pattern="do" type="Bash" />
+      <mapping pattern="post-checkout" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
