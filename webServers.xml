@@ -43,6 +43,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="e6f0abc1-0139-46e6-86a2-86ca0f644d8f" name="w-moeller-ahaus.de" url="http://www.w-moeller-ahaus.de">
+        <fileTransfer rootFolder="/public_html/w-moeller-ahaus.de" accessType="FTPS" host="dedi3511.your-server.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
