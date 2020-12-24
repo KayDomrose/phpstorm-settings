@@ -712,6 +712,46 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.gql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.jsgraphql" />
+              <option name="myPluginName" value="JS GraphQL" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.graphql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.jsgraphql" />
+              <option name="myPluginName" value="JS GraphQL" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.graphqld">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.jsgraphql" />
+              <option name="myPluginName" value="JS GraphQL" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.graphqle">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.jsgraphql" />
+              <option name="myPluginName" value="JS GraphQL" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.graphqls">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.jsgraphql" />
+              <option name="myPluginName" value="JS GraphQL" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.groovy">
           <value>
             <plugin>
@@ -822,8 +862,8 @@
         <entry key="*.hphp">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1263,8 +1303,8 @@
         <entry key="*.module">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1487,8 +1527,8 @@
         <entry key="*.php">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1496,8 +1536,8 @@
         <entry key="*.php4">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1505,8 +1545,8 @@
         <entry key="*.php5">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1523,8 +1563,8 @@
         <entry key="*.phtml">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1741,6 +1781,14 @@
               <option name="myPluginId" value="org.jetbrains.plugins.rest" />
               <option name="myPluginName" value="ReStructuredText" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rules">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="co.anbora.labs.firebase-syntax-highlighting" />
+              <option name="myPluginName" value="Firebase Rules Syntax Highlighter" />
             </plugin>
           </value>
         </entry>
