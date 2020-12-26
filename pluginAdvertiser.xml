@@ -1659,6 +1659,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.prisma">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="fr.gabrielcolson.prisma.prisma-intellij-plugin" />
+              <option name="myPluginName" value="Prisma" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.proj">
           <value>
             <plugin>
