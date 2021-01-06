@@ -50,6 +50,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="26dbf766-8f73-45ae-85bd-a258fd6abafd" name="gallery-peter-rademacher.net" url="http://gallery-peter-rademacher.net">
+        <fileTransfer rootFolder="/public_html/gallery-peter-rademacher.net" accessType="FTPS" host="gallery-peter-rademacher.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
