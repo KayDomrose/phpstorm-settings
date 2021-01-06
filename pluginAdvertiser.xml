@@ -871,8 +871,8 @@
         <entry key="*.hphp">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1312,8 +1312,8 @@
         <entry key="*.module">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1536,8 +1536,8 @@
         <entry key="*.php">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1545,8 +1545,8 @@
         <entry key="*.php4">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1554,8 +1554,8 @@
         <entry key="*.php5">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1572,8 +1572,8 @@
         <entry key="*.phtml">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
