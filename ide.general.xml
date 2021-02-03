@@ -23,11 +23,4 @@
     <entry key="ide.mac.bigsur.alerts.enabled" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
   </component>
-  <component name="StatusBar">
-    <option name="widgets">
-      <map>
-        <entry key="Memory" value="true" />
-      </map>
-    </option>
-  </component>
 </application>
