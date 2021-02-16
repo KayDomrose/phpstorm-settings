@@ -46,6 +46,10 @@
           <option name="url" value="git@gitlab.com:geenen-it-systeme/gebiomized/pre-fit.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/electron-react-boilerplate/electron-react-boilerplate" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git" />
