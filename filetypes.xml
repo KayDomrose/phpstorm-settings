@@ -3,7 +3,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="nginx" type="Dockerfile" />
-      <removed_mapping ext="ng" type="HTML" />
+      <mapping ext="ng" type="HTML" />
       <mapping pattern=".prettierignore" type="IgnoreLang file" />
       <mapping ext="sqlite" type="Native" />
       <mapping pattern=".php_cs.dist" type="PHP" />
@@ -28,10 +28,10 @@
       <mapping pattern="post-checkout" type="Shell Script" />
       <mapping pattern="dev" type="Shell Script" />
       <mapping pattern="Test" type="TypeScript JSX" />
-      <removed_mapping pattern="tsconfig.app.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.spec.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.e2e.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.lib.json" type="tsconfig" />
+      <mapping pattern="tsconfig.app.json" type="tsconfig" />
+      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
+      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
