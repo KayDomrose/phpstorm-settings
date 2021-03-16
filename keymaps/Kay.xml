@@ -13,7 +13,7 @@
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta number_sign" />
-    <keyboard-shortcut first-keystroke="#10000e4" />
+    <keyboard-shortcut first-keystroke="meta #10000e4" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoModule" />
