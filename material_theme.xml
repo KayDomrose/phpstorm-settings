@@ -1,9 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="darkTitleBar" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="useMaterialWallpapers" value="true" />
     <option name="treeFontSize" value="14" />
-    <option name="settingsSelectedTab" value="2" />
     <option name="accentColor" value="d33682" />
     <option name="selectedTheme" value="SOLARIZED_DARK" />
     <option name="userId" value="-2e1caef9:172dab7aa0e:-8000" />
