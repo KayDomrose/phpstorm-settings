@@ -26,11 +26,12 @@
       <mapping ext="2019-10-27" type="PLAIN_TEXT" />
       <mapping pattern="post-checkout" type="Shell Script" />
       <mapping pattern="dev" type="Shell Script" />
+      <mapping pattern="do" type="Shell Script" />
       <mapping pattern="Test" type="TypeScript JSX" />
-      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
       <mapping pattern="tsconfig.app.json" type="tsconfig" />
-      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
       <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
+      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
