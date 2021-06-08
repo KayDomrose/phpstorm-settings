@@ -7,7 +7,9 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="vinyes.de" id="1c8e7e54-b01f-4f3f-affa-e63e7e7e041e" port="22" customName="vinyes.de" nameFormat="CUSTOM" username="casavia">
         <option name="customName" value="vinyes.de" />
       </sshConfig>
-      <sshConfig host="162.55.38.48" id="660fbe81-9a33-47ab-bdb2-9c4e770f68ae" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="forge" />
+      <sshConfig host="162.55.177.123" id="660fbe81-9a33-47ab-bdb2-9c4e770f68ae" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="app.ma-lernsoftware.de" nameFormat="CUSTOM" username="forge">
+        <option name="customName" value="app.ma-lernsoftware.de" />
+      </sshConfig>
     </configs>
   </component>
 </application>
