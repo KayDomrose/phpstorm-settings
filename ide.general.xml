@@ -1,7 +1,6 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
-    <option name="confirmOpenNewProject2" value="0" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
   </component>
@@ -21,7 +20,6 @@
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="use.tabbed.welcome.screen" value="false" />
     <entry key="ide.new.project.model" value="false" />
-    <entry key="ide.mac.bigsur.alerts.enabled" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.mac.transparentTitleBarAppearance" value="true" />
