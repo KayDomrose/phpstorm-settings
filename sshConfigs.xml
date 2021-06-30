@@ -10,6 +10,7 @@
       <sshConfig host="162.55.177.123" id="660fbe81-9a33-47ab-bdb2-9c4e770f68ae" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="app.ma-lernsoftware.de" nameFormat="CUSTOM" username="forge">
         <option name="customName" value="app.ma-lernsoftware.de" />
       </sshConfig>
+      <sshConfig host="wp02-voigt.eurodata.de" id="35bb3184-7579-4f00-b481-eabd15264912" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="worker" />
     </configs>
   </component>
 </application>
