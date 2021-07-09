@@ -1,0 +1,10 @@
+<application>
+  <component name="GitlabCiDataStorage">
+    <option name="accessToken" value="9S88xg1BuATLAvnaefE8" />
+    <option name="projects">
+      <map>
+        <entry key="kanzlei-voigt-webportal.de" value="{&quot;id&quot;:&quot;11527277&quot;,&quot;token&quot;:&quot;9S88xg1BuATLAvnaefE8&quot;,&quot;domain&quot;:&quot;https://gitlab.com/api/v4/&quot;}" />
+      </map>
+    </option>
+  </component>
+</application>
