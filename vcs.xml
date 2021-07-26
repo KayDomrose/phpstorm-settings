@@ -58,6 +58,10 @@
           <option name="url" value="git@gitlab.com:geenen-it-systeme/pauli/calculation-tool.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:geenen-it-systeme/kanzlei-voigt/urteilsdatenbank-frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git" />
