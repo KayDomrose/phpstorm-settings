@@ -21,9 +21,9 @@
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="use.tabbed.welcome.screen" value="false" />
     <entry key="ide.new.project.model" value="false" />
-    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="eslint.additional.file.extensions" value="svelte" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
