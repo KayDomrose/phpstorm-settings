@@ -1,6 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="0" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
   </component>
@@ -21,5 +22,22 @@
     <entry key="use.tabbed.welcome.screen" value="false" />
     <entry key="ide.new.project.model" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="search.everywhere.settings" value="true" />
+    <entry key="eslint.additional.file.extensions" value="svelte" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Encoding" value="false" />
+        <entry key="LineSeparator" value="false" />
+        <entry key="Position" value="false" />
+        <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="TypeScriptInfo" value="false" />
+        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
+        <entry key="com.tabnine.statusBar.StatusBarPromotionWidget" value="false" />
+        <entry key="com.tabnine.statusBar.TabnineStatusBarWidget" value="false" />
+        <entry key="php.language.level.widget" value="false" />
+      </map>
+    </option>
   </component>
 </application>

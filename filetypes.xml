@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern="demo-result" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="nginx" type="Dockerfile" />
       <mapping pattern=".prettierignore" type="IgnoreLang file" />
@@ -13,8 +13,8 @@
       <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
       <mapping pattern="creator_uid" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="testfile" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="hallo" type="PLAIN_TEXT" />
       <mapping pattern=".prettiercr" type="PLAIN_TEXT" />
@@ -22,23 +22,21 @@
       <mapping pattern="HttpAuthorizationException" type="PLAIN_TEXT" />
       <mapping pattern="kays-test" type="PLAIN_TEXT" />
       <mapping pattern="url" type="PLAIN_TEXT" />
-      <mapping ext="2019-10-27" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
       <mapping ext="proxy" type="PLAIN_TEXT" />
+      <mapping ext="2019-10-27" type="PLAIN_TEXT" />
+      <mapping pattern="dev" type="Shell Script" />
+      <mapping pattern="post-checkout" type="Shell Script" />
       <mapping pattern="Test" type="TypeScript JSX" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping pattern="do" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs.dist" type="PHP" />
-      <mapping pattern="dev" type="Shell Script" />
       <mapping pattern="do" type="Bash" />
-      <mapping pattern="post-checkout" type="Shell Script" />
     </extensionMap>
   </component>
 </application>

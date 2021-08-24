@@ -64,6 +64,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="686c8df1-5443-40d7-a3f2-e01361ea2a63" name="ma-lernsoftware.de v2" url="https://dev.ma-lernsoftware.de">
+        <fileTransfer rootFolder="/public_html/ma-lernsoftware/v2" accessType="SFTP" host="ma-lernsoftware.de" port="22" sshConfigId="322948e8-8b89-42c0-aaca-cd4472b3e43d" sshConfig="ma-lernsoftware.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

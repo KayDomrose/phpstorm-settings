@@ -13,14 +13,21 @@
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta number_sign" />
+    <keyboard-shortcut first-keystroke="meta #10000e4" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt #10000fc" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
   <action id="RunAnything">
     <keyboard-shortcut first-keystroke="meta circumflex" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="meta #10000fc" />
   </action>
 </keymap>
