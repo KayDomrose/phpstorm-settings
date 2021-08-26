@@ -22,9 +22,11 @@
       <mapping pattern="HttpAuthorizationException" type="PLAIN_TEXT" />
       <mapping pattern="kays-test" type="PLAIN_TEXT" />
       <mapping pattern="url" type="PLAIN_TEXT" />
-      <mapping ext="2019-10-27" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
       <mapping ext="proxy" type="PLAIN_TEXT" />
+      <mapping ext="2019-10-27" type="PLAIN_TEXT" />
+      <mapping pattern="dev" type="Shell Script" />
+      <mapping pattern="post-checkout" type="Shell Script" />
       <mapping pattern="Test" type="TypeScript JSX" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -34,10 +36,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="do" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs.dist" type="PHP" />
-      <mapping pattern="dev" type="Shell Script" />
       <mapping pattern="do" type="Bash" />
-      <mapping pattern="post-checkout" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
