@@ -11,6 +11,7 @@
         <option name="customName" value="vinyes.de" />
       </sshConfig>
       <sshConfig host="wp02-voigt.eurodata.de" id="35bb3184-7579-4f00-b481-eabd15264912" keyPath="$USER_HOME$/.ssh/voigt" port="22" nameFormat="DESCRIPTIVE" username="worker" />
+      <sshConfig host="db01-voigt.eurodata.de" id="7651df7e-bf1c-4ecc-a5d0-b4f2ed0a5870" keyPath="$USER_HOME$/.ssh/voigt" port="22" nameFormat="DESCRIPTIVE" username="worker" />
     </configs>
   </component>
 </application>
