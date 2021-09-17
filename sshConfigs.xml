@@ -10,6 +10,7 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="vinyes.de" id="1c8e7e54-b01f-4f3f-affa-e63e7e7e041e" port="22" customName="vinyes.de" nameFormat="CUSTOM" username="casavia">
         <option name="customName" value="vinyes.de" />
       </sshConfig>
+      <sshConfig host="db01-voigt.eurodata.de" id="7651df7e-bf1c-4ecc-a5d0-b4f2ed0a5870" keyPath="$USER_HOME$/.ssh/voigt" port="22" nameFormat="DESCRIPTIVE" username="worker" />
       <sshConfig host="wp02-voigt.eurodata.de" id="35bb3184-7579-4f00-b481-eabd15264912" keyPath="$USER_HOME$/.ssh/voigt" port="22" nameFormat="DESCRIPTIVE" username="worker" />
     </configs>
   </component>
