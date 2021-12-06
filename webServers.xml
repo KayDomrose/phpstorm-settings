@@ -1,0 +1,83 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0f8504de-2a2b-43d5-a1a1-0397bb5c796e" name="ma-lernsoftware.de" url="https://ma-lernsoftware.de">
+        <fileTransfer rootFolder="/public_html/ma-lernsoftware/ma" accessType="SFTP" host="ma-lernsoftware.de" port="22" sshConfigId="322948e8-8b89-42c0-aaca-cd4472b3e43d" sshConfig="ma-lernsoftware.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4797d47f-eeea-4d72-9e24-02e3fc3d00e9" name="vinyes.de" url="https://vinyes.de">
+        <fileTransfer rootFolder="/public_html/vinyes.de" accessType="SFTP" host="vinyes.de" port="22" sshConfigId="1c8e7e54-b01f-4f3f-affa-e63e7e7e041e" sshConfig="vinyes.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="34feb8ab-4131-4ce0-aa8d-4bd51c59c616" name="optinvest.de" url="https://www.optinvest.de/signatur?password=opti42">
+        <fileTransfer rootFolder="/master.optinvest.de/signatur" host="webhosting63.1blu.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="45d630a1-6484-4763-90c8-978356c0c54a" name="ferienwohnung-zingst.de" url="http://entwicklung.online-ferienobjekte.de">
+        <fileTransfer rootFolder="/entwicklung.ferienwohnung-zingst.de/ferienwohnung-zingst" host="ftp.online-ferienobjekte.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="01088ac5-9c6b-400d-8f28-21060383c46a" name="sst-group" url="https://sst-group.org">
+        <fileTransfer rootFolder="/wp_site_1590154154" host="sst-group.org" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="918805e7-46f8-4bb1-b249-0c93285904f8" name="Hardbuddy" url="https://dev.domrose.org">
+        <fileTransfer accessType="FTPS" host="dev.domrose.org" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e6f0abc1-0139-46e6-86a2-86ca0f644d8f" name="w-moeller-ahaus.de" url="http://www.w-moeller-ahaus.de">
+        <fileTransfer rootFolder="/public_html/w-moeller-ahaus.de" accessType="FTPS" host="dedi3511.your-server.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="26dbf766-8f73-45ae-85bd-a258fd6abafd" name="gallery-peter-rademacher.net" url="http://gallery-peter-rademacher.net">
+        <fileTransfer rootFolder="/public_html/gallery-peter-rademacher.net" accessType="FTPS" host="gallery-peter-rademacher.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="953853c0-c16b-485a-be05-e7304e632c14" name="hortus-grata-ago.de" url="https://hortus-gratia-ago.de">
+        <fileTransfer rootFolder="/public_html/hortus-gratia-ago.de" accessType="FTPS" host="dedi3511.your-server.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="686c8df1-5443-40d7-a3f2-e01361ea2a63" name="ma-lernsoftware.de v2" url="https://dev.ma-lernsoftware.de">
+        <fileTransfer rootFolder="/public_html/ma-lernsoftware/v2" accessType="SFTP" host="ma-lernsoftware.de" port="22" sshConfigId="322948e8-8b89-42c0-aaca-cd4472b3e43d" sshConfig="ma-lernsoftware.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="512d681d-3f7b-4781-bb82-8a1c420cd2fc" name="gits-testing" url="http://gits-testing.de">
+        <fileTransfer rootFolder="/public_html" accessType="FTPS" host="gits-testing.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
