@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="demo-result" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
-      <mapping ext="nginx" type="Dockerfile" />
       <mapping pattern=".prettierignore" type="IgnoreLang file" />
       <mapping ext="sqlite" type="Native" />
       <mapping pattern=".php_cs.dist" type="PHP" />
@@ -13,8 +12,8 @@
       <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
       <mapping pattern="creator_uid" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="testfile" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="hallo" type="PLAIN_TEXT" />
       <mapping pattern=".prettiercr" type="PLAIN_TEXT" />
@@ -30,12 +29,19 @@
       <mapping pattern="Test" type="TypeScript JSX" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="nginx" approved="true" type="Dockerfile" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="do" approved="true" type="PLAIN_TEXT" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
       <mapping pattern="do" type="Bash" />
     </extensionMap>
   </component>

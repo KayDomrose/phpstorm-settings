@@ -11,7 +11,8 @@
         <option name="customName" value="vinyes.de" />
       </sshConfig>
       <sshConfig host="db01-voigt.eurodata.de" id="7651df7e-bf1c-4ecc-a5d0-b4f2ed0a5870" keyPath="$USER_HOME$/.ssh/voigt" port="22" nameFormat="DESCRIPTIVE" username="worker" />
-      <sshConfig host="wp02-voigt.eurodata.de" id="35bb3184-7579-4f00-b481-eabd15264912" keyPath="$USER_HOME$/.ssh/voigt" port="22" nameFormat="DESCRIPTIVE" username="worker" />
+      <sshConfig host="wp04-voigt.eurodata.de" id="35bb3184-7579-4f00-b481-eabd15264912" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="worker" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="gits-testing.de" id="2921716a-01ac-4c4b-9774-ad24f5cc0215" port="22" nameFormat="DESCRIPTIVE" username="gitsni" />
     </configs>
   </component>
 </application>
