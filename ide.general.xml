@@ -24,6 +24,7 @@
       <map>
         <entry key="Encoding" value="false" />
         <entry key="FlowJSInfo" value="false" />
+        <entry key="Laravel" value="false" />
         <entry key="LineSeparator" value="false" />
         <entry key="Notifications" value="false" />
         <entry key="Position" value="false" />
