@@ -1,11 +1,14 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-07-05T10:12:34</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.6.0.0</property>
-    <property name="modified">2022-06-02T12:49:04</property>
+    <property name="modified">2022-06-03T10:05:17</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="METHOD_SEPARATORS_COLOR" value="" />
   </colors>
