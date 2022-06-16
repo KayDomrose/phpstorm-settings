@@ -16,6 +16,7 @@
     <entry key="ide.new.project.model" value="false" />
     <entry key="eslint.additional.file.extensions" value="svelte" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
+    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="js.debugger.use.node.options" value="false" />
   </component>
   <component name="StatusBar">
