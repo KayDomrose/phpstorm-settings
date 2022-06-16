@@ -21,9 +21,9 @@
       <mapping pattern="HttpAuthorizationException" type="PLAIN_TEXT" />
       <mapping pattern="kays-test" type="PLAIN_TEXT" />
       <mapping pattern="url" type="PLAIN_TEXT" />
+      <mapping ext="2019-10-27" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
       <mapping ext="proxy" type="PLAIN_TEXT" />
-      <mapping ext="2019-10-27" type="PLAIN_TEXT" />
       <mapping pattern="dev" type="Shell Script" />
       <mapping pattern="post-checkout" type="Shell Script" />
       <mapping pattern="Test" type="TypeScript JSX" />
@@ -42,6 +42,7 @@
       <mapping ext=".tabnine.model" type="Tabnine project model file" />
       <mapping ext="model" type="Tabnine project model file" />
       <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="do" type="Bash" />
     </extensionMap>
   </component>
