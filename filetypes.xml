@@ -21,9 +21,10 @@
       <mapping pattern="HttpAuthorizationException" type="PLAIN_TEXT" />
       <mapping pattern="kays-test" type="PLAIN_TEXT" />
       <mapping pattern="url" type="PLAIN_TEXT" />
-      <mapping ext="2019-10-27" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc.example" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
       <mapping ext="proxy" type="PLAIN_TEXT" />
+      <mapping ext="2019-10-27" type="PLAIN_TEXT" />
       <mapping pattern="dev" type="Shell Script" />
       <mapping pattern="post-checkout" type="Shell Script" />
       <mapping pattern="Test" type="TypeScript JSX" />
@@ -32,7 +33,6 @@
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="nginx" approved="true" type="Dockerfile" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
@@ -42,7 +42,6 @@
       <mapping ext=".tabnine.model" type="Tabnine project model file" />
       <mapping ext="model" type="Tabnine project model file" />
       <mapping ext="tabnine" type="Tabnine project model file" />
-      <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="do" type="Bash" />
     </extensionMap>
   </component>
