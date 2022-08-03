@@ -85,7 +85,6 @@
         <option value="Default.Root" />
         <option value="Default.Subject" />
         <option value="Default.Author" />
-        <option value="Space.CommitStatus" />
       </list>
     </option>
     <option name="COLUMN_ID_VISIBILITY">
