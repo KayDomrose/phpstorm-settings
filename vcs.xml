@@ -74,9 +74,13 @@
           <option name="url" value="git@gitlab.ms.digital:myspot/cms-frontend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.mo-siemens.com:MO_RC_CH_MM_ITS_PH/piu/ls_vennes-chexbres/webui_vennes.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/yunex" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
