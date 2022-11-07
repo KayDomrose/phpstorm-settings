@@ -86,6 +86,10 @@
           <option name="url" value="git@gitlab.mocca.yunextraffic.cloud:MO_RC_CH_MM_ITS_PH/piu/vlch/webui_vlch.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.mocca.yunextraffic.cloud:MO_RC_CH_MM_ITS_PH/piu/Software_Tools/webui-editor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git/yunex" />
