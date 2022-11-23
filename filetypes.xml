@@ -16,6 +16,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="hallo" type="PLAIN_TEXT" />
       <mapping pattern=".prettiercr" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
